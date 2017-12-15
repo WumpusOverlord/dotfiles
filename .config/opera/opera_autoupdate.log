@@ -1,0 +1,8 @@
+[7764:7764:0830/185307.074490:5851282829:ERROR:networkimpl.cc(300)] [AU] Send Request status: 6
+[7764:7764:0830/185307.074834:5851283169:ERROR:networkimpl.cc(501)] [AU] Request sending failed. HTTP return code: 0
+[7764:7764:0830/185310.048666:5854257012:ERROR:networkimpl.cc(300)] [AU] Send Request status: 6
+[7764:7764:0830/185310.048782:5854257119:ERROR:networkimpl.cc(501)] [AU] Request sending failed. HTTP return code: 0
+[7764:7764:0830/185314.343521:5858551858:ERROR:networkimpl.cc(300)] [AU] Send Request status: 6
+[7764:7764:0830/185314.343579:5858551911:ERROR:networkimpl.cc(501)] [AU] Request sending failed. HTTP return code: 0
+[7764:7764:0830/185322.807795:5867016132:ERROR:networkimpl.cc(300)] [AU] Send Request status: 6
+[7764:7764:0830/185322.807844:5867016177:ERROR:networkimpl.cc(501)] [AU] Request sending failed. HTTP return code: 0

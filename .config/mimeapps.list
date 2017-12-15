@@ -1,0 +1,21 @@
+[Added Associations]
+image/jpeg=feh.desktop;
+application/zip=xarchiver.desktop;
+image/png=darktable.desktop;sxiv.desktop;
+text/plain=atom.desktop;libreoffice-writer.desktop;
+application/x-tar=xarchiver.desktop;
+text/csv=libreoffice-calc.desktop;
+application/x-compressed-tar=xarchiver.desktop;
+application/x-shellscript=atom.desktop;nvim.desktop;
+text/markdown=atom.desktop;libreoffice-writer.desktop;
+text/x-python=atom.desktop;
+application/x-7z-compressed=xarchiver.desktop;
+application/octet-stream=atom.desktop;
+video/x-matroska=vlc.desktop;
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;
+text/x-r-source=rstudio.desktop;
+text/x-log=libreoffice-calc.desktop;
+application/x-hdf=atom.desktop;
+video/mp4=vlc.desktop;
